@@ -3,9 +3,9 @@ body {
 }
 .generalContainer {
     background-color: #FFFFFF;
-    padding: 10px;
-    width: 300px;
-    margin: 400px;
+    padding: 15px;
+    width: 350px;
+    margin: 300px;
     margin-right: auto;
     margin-left: auto;
     border-radius: 10px;
@@ -15,20 +15,20 @@ body {
     justify-content: center;
 }
 img {
-    width: 300px;
+    width: 350px;
     border-radius: 10px;
 }
 h1 {
     font-family: Outfit;
     font-weight: 700;
-    font-size: large;
+    font-size: 30px;
     color: hsl(218, 44%, 22%);
     text-align: center;
 }
 p {
     font-family: Outfit;
-    color: hsl(216, 15%, 48%);
     font-size: 15px;
+    color: hsl(216, 15%, 48%);
     font-weight: 400;
     text-align: center;
 }
