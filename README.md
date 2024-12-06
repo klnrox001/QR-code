@@ -29,3 +29,4 @@ I need to revise 'flexbox' and my code needs to be more streamlined, I feel? Not
 - Website - [Roxanne] https://github.com/klnrox001
 - Frontend Mentor - [klnrox001] https://www.frontendmentor.io/profile/klnrox001
 
+# QR-code
